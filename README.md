@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi👋, i'm Alexandre</h1> 
 
 <!--
 **AlexandreMessuve/AlexandreMessuve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

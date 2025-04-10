@@ -16,18 +16,18 @@
 ### 🛠️ Mes compétences / My Skills :
 
 #### Langages / Languages :
-![JAVA](https://img.shields.io/badge/java-E87408?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://openjdk.org/" target="_blank">![JAVA](https://img.shields.io/badge/java-E87408?style=for-the-badge&logo=openjdk)</a>
+<a href="https://www.javascript.com/" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
+<a href="https://www.w3schools.com/Html/" target="_blank">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="https://www.w3schools.com/css/" target="_blank">![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
 
 #### Frameworks :
-![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-72B545?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-3D83E7?style=for-the-badge&logo=quarkus&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwind-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+<a href="https://spring.io/" target="_blank">![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-72B545?style=for-the-badge&logo=spring&logoColor=white)</a>
+<a href="https://quarkus.io/" target="_blank">![Quarkus](https://img.shields.io/badge/Quarkus-3D83E7?style=for-the-badge&logo=quarkus&logoColor=white)</a>
+<a href="https://tailwindcss.com/" target="_blank">![Tailwindcss](https://img.shields.io/badge/Tailwind-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
+<a href="https://react.dev/" target="_blank">![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)</a>
+<a href="https://svelte.dev/" target="_blank">![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)</a>
+<a href="https://vuejs.org/" target="_blank">![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)</a>
 
 ---
 
